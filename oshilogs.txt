@@ -12,79 +12,67 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Giska =====
-[1]Giska       |09:24:08 | 24-10-2026| login OK @mygiska | score=1830 rank=4134
-[1]Giska       |09:24:08 | 24-10-2026| serverTime=2026-10-24T09:24:08.000Z local=2026-10-24T09:24:08.278Z
+[1]Giska       |05:46:37 | 26-10-2026| login OK @mygiska | score=2070 rank=3782
+[1]Giska       |05:46:37 | 26-10-2026| serverTime=2026-10-26T05:46:37.000Z local=2026-10-26T05:46:37.886Z
 --> [1]Giska menjalankan: Claim Daily
-[1]Giska       |09:24:10 | 24-10-2026| daily: OK +10 poin score=1840
---> [1]Giska menjalankan: Auto All Tasks (10 pending)
-[1]Giska       |09:24:12 | 24-10-2026| [1/10] 50de6b49 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/mygiska/status/2113923930144087775
-[1]Giska       |09:24:12 | 24-10-2026| delay 10s...
-[1]Giska       |09:24:25 | 24-10-2026| [2/10] b772e482 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":20,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/mygiska/status/2113924236456933410
-[1]Giska       |09:24:25 | 24-10-2026| delay 10s...
-[1]Giska       |09:24:39 | 24-10-2026| [3/10] 58e687d8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":20,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/mygiska/status/2113924227702403588
-[1]Giska       |09:24:39 | 24-10-2026| delay 10s...
-[1]Giska       |09:24:51 | 24-10-2026| [4/10] 63ae925f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":20,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/mygiska/status/2113924188137505156
-[1]Giska       |09:24:51 | 24-10-2026| delay 10s...
-[1]Giska       |09:25:04 | 24-10-2026| [5/10] c7d975e4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/mygiska/status/2113924460686404175
-[1]Giska       |09:25:04 | 24-10-2026| delay 10s...
-[1]Giska       |09:25:17 | 24-10-2026| [6/10] f59f95ce (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/mygiska/status/2113924302610724741
-[1]Giska       |09:25:17 | 24-10-2026| delay 10s...
-[1]Giska       |09:25:29 | 24-10-2026| [7/10] 3c2cc170 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/mygiska/status/2113924388258097816
-[1]Giska       |09:25:29 | 24-10-2026| delay 10s...
-[1]Giska       |09:25:41 | 24-10-2026| [8/10] 93eec591 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/mygiska/status/2113924256461311168
-[1]Giska       |09:25:41 | 24-10-2026| delay 10s...
-[1]Giska       |09:25:54 | 24-10-2026| [9/10] 4246c642 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756
-[1]Giska       |09:25:54 | 24-10-2026| delay 10s...
-[1]Giska       |09:26:05 | 24-10-2026| [10/10] 63f05488 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211385100633756 | proof=https://x.com/mygiska/status/2113924399167543275
-[1]Giska       |09:26:05 | 24-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Giska       |09:26:08 | 24-10-2026| [1/1] 50de6b49 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"50de6b49-107b-472f-892c-2bfbdc22cc49","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113851006337568 | proof=https://x.com/mygiska/status/2113924472480208333
+[1]Giska       |05:46:39 | 26-10-2026| daily: OK +10 poin score=2080
+--> [1]Giska menjalankan: Auto All Tasks (8 pending)
+[1]Giska       |05:46:40 | 26-10-2026| [1/8] 30fecda0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/mygiska/status/2114593914447788250
+[1]Giska       |05:46:40 | 26-10-2026| delay 10s...
+[1]Giska       |05:46:53 | 26-10-2026| [2/8] 1db0caec (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/mygiska/status/2114594266389308056
+[1]Giska       |05:46:53 | 26-10-2026| delay 10s...
+[1]Giska       |05:47:06 | 26-10-2026| [3/8] 494e1b1b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/mygiska/status/2114594067277754877
+[1]Giska       |05:47:06 | 26-10-2026| delay 10s...
+[1]Giska       |05:47:18 | 26-10-2026| [4/8] 9b683957 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/mygiska/status/2114594130065613826
+[1]Giska       |05:47:18 | 26-10-2026| delay 10s...
+[1]Giska       |05:47:30 | 26-10-2026| [5/8] 4262aa80 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/mygiska/status/2114594474150874782
+[1]Giska       |05:47:30 | 26-10-2026| delay 10s...
+[1]Giska       |05:47:43 | 26-10-2026| [6/8] ed948baf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/mygiska/status/2114594354790471650
+[1]Giska       |05:47:43 | 26-10-2026| delay 10s...
+[1]Giska       |05:47:57 | 26-10-2026| [7/8] d23e8d85 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/mygiska/status/2114594344406233662
+[1]Giska       |05:47:57 | 26-10-2026| delay 10s...
+[1]Giska       |05:48:09 | 26-10-2026| [8/8] 33550c8b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/mygiska/status/2114594557345791352
+[1]Giska       |05:48:09 | 26-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Giska       |05:48:11 | 26-10-2026| [1/1] 30fecda0 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2114543843555385 | proof=https://x.com/mygiska/status/2114594450522115049
 --> [1]Giska menjalankan: Watch Anime
-[1]Giska       |09:26:09 | 24-10-2026| watch: semua video sudah completed
+[1]Giska       |05:48:12 | 26-10-2026| watch: semua video sudah completed
 --> [1]Giska menjalankan: Read Article
-[1]Giska       |09:26:10 | 24-10-2026| news: 27/30 artikel selesai dibaca
-[1]Giska       |09:26:11 | 24-10-2026| mint eligibility: {"userId":"1717494787610378240","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@giskaliviana","status":"submitted","revision":"1d64e0c8-0e50-4c0c-9a08-ca4991993
-[1]Giska       |09:26:17 | 24-10-2026| news [1/3] road-to-mint-2026-10: OK completed=28
-[1]Giska       |09:26:27 | 24-10-2026| news [2/3] community-first-update-2026-10: OK completed=29
-[1]Giska       |09:26:36 | 24-10-2026| news [3/3] oshi-nft-price-and-basic-income-01: OK completed=30
+[1]Giska       |05:48:13 | 26-10-2026| news: 30/30 artikel selesai dibaca
+[1]Giska       |05:48:14 | 26-10-2026| mint eligibility: {"userId":"1717494787610378240","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@giskaliviana","status":"submitted","revision":"1d64e0c8-0e50-4c0c-9a08-ca4991993
+[1]Giska       |05:48:14 | 26-10-2026| news: semua artikel sudah dibaca
 --> [1]Giska menjalankan: Quiz Anime
-[1]Giska       |09:26:39 | 24-10-2026| quiz ep1: sudah dijawab
-[1]Giska       |09:26:39 | 24-10-2026| quiz ep2: sudah dijawab
-[1]Giska       |09:26:39 | 24-10-2026| quiz ep3: sudah dijawab
-[1]Giska       |09:26:39 | 24-10-2026| quiz ep4: sudah dijawab
-[1]Giska       |09:26:39 | 24-10-2026| quiz ep5: sudah dijawab
-[1]Giska       |09:26:39 | 24-10-2026| quiz ep6: sudah dijawab
 --> [1]Giska menjalankan: Music Missions (realtime, bisa lama!)
-[1]Giska       |09:26:41 | 24-10-2026| music: kedua misi sudah tercapai, stop
-[1]Giska       |09:26:43 | 24-10-2026| mission music-listens-10: sudah diklaim
-[1]Giska       |09:26:43 | 24-10-2026| mission music-minutes-30: sudah diklaim
-[1]Giska       |09:26:43 | 24-10-2026| mission anime-completed-3: sudah diklaim
+[1]Giska       |05:48:17 | 26-10-2026| music: kedua misi sudah tercapai, stop
+[1]Giska       |05:48:17 | 26-10-2026| mission music-listens-10: sudah diklaim
+[1]Giska       |05:48:17 | 26-10-2026| mission music-minutes-30: sudah diklaim
+[1]Giska       |05:48:17 | 26-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Giska menjalankan: Claim Missions
-[1]Giska       |09:26:43 | 24-10-2026| mission music-listens-10: sudah diklaim
-[1]Giska       |09:26:43 | 24-10-2026| mission music-minutes-30: sudah diklaim
-[1]Giska       |09:26:43 | 24-10-2026| mission anime-completed-3: sudah diklaim
+[1]Giska       |05:48:18 | 26-10-2026| mission music-listens-10: sudah diklaim
+[1]Giska       |05:48:18 | 26-10-2026| mission music-minutes-30: sudah diklaim
+[1]Giska       |05:48:18 | 26-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Giska menjalankan: Check Eligibility
 
 --- eligibility [1]Giska ---
-  @mygiska | score=1830 rank=4134
-  tasks    [############--------] 15/25
+  @mygiska | score=2070 rank=3782
+  tasks    [--------------------] 0/8
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
-  quiz     [####################] 6/6
+  quiz     [?]
   watch    [####################] 22/17
-  music    [####################] 11/11
+  music    [##################--] 11/12
   artikel  [####################] 30/30
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Giska menjalankan: Read Manga
-[1]Giska       |09:26:48 | 24-10-2026| manga: 0/13 chapter belum completed
+[1]Giska       |05:48:21 | 26-10-2026| manga: 0/13 chapter belum completed
 --> [1]Giska menjalankan: Get Gift
-[1]Giska       |09:26:49 | 24-10-2026| gift: 0/4 belum diterima
+[1]Giska       |05:48:22 | 26-10-2026| gift: 0/4 belum diterima
 --> [1]Giska menjalankan: Setup Profile
-[1]Giska       |09:26:49 | 24-10-2026| profile: bio="https://x.com/mygiska" fav=kagura rewardAt=1791687840
-[1]Giska       |09:26:49 | 24-10-2026| profile: bonus sudah diklaim, skip
+[1]Giska       |05:48:23 | 26-10-2026| profile: bio="https://x.com/mygiska" fav=kagura rewardAt=1791687840
+[1]Giska       |05:48:23 | 26-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Giska menjalankan: Bind Wallet
-[1]Giska       |09:26:50 | 24-10-2026| wallet: sudah terikat 3MUBfc7gUA... (solana)
+[1]Giska       |05:48:23 | 26-10-2026| wallet: sudah terikat 3MUBfc7gUA... (solana)
 
 == RINGKASAN ==
-- Giska: daily=claimed | tasks OK 11/11 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 3 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Giska: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
